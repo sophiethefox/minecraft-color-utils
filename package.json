@@ -1,6 +1,6 @@
 {
   "name": "minecraft-color-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some functions to get information about Minecraft color codes",
   "main": "index.js",
   "scripts": {
