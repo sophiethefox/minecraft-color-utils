@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-color-utils",
+  "version": "1.0.0",
+  "description": "Some functions to get information about Minecraft color codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RegexMC/minecraft-color-utils.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "RegexMC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RegexMC/minecraft-color-utils/issues"
+  },
+  "homepage": "https://github.com/RegexMC/minecraft-color-utils#readme"
+}
